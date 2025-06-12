@@ -1,2 +1,8 @@
 # cs25xinkangfan
-For final exam
+cs25xinkangfan Pages Assessment
+===========
+Involves
+* cs25xinkangfan
+* git
+* GitHub
+* SSH
